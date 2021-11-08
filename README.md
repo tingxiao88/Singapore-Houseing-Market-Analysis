@@ -1,6 +1,7 @@
 # Project Documentation
 
 - This is a project presents Explainatory Data Analysis with plotly.
+- The project is the CA2 for Data Visualisation Module(ST1502) from Semester 2 of SP 2020 
 
 
 # Objective Briefing
