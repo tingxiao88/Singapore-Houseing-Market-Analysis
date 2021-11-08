@@ -3,6 +3,18 @@
 - This is a project presents Explainatory Data Analysis with plotly.
 - The project is the CA2 for Data Visualisation Module(ST1502) from Semester 2 of SP 2020 
 
+# Dependencies
+To be able to recreate the output of mine, you will have to run the following code to install the packages (run the code one buy one) 
+```
+pip install pandas
+pip install numpy
+pip install seaborn
+pip install matplotlib
+pip install plotly
+pip install chart_studio 
+conda install -c conda-forge cufflinks-py 
+pip install plotly --upgrade
+```
 
 # Objective Briefing
 - Mr Vincent, a 45-year-old American engineer, who received Singapore nationality due to his excellent contribution to the Singapore Manufacturing industry.
