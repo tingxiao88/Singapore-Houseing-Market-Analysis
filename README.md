@@ -1,6 +1,6 @@
 # Project Documentation
 
-- This is a project
+- This is a project presents Explainatory Data Analysis with plotly.
 
 
 # Objective Briefing
